@@ -1,0 +1,52 @@
+{
+    "countries": [
+        {
+            "country": "Proyectos",
+            "states": [
+                "Definición de Parámetros",
+                "Presupuesto",
+                "Ejecución de trabajos",
+                "Auditoría"
+            ]
+        },
+        {
+            "country": "Compras",
+            "states": [
+                "Condiciones de Compra",
+                "Pedido",
+                "Cotización",
+                "Precios",
+                "Orden de compra",
+                "Factura"
+            ]
+        },
+        {
+            "country": "Inventario",
+            "states": [
+                "Crear Materiales",
+                "Editar Materiales",
+                "Recepción en Obras",
+                "Remitir a Trabajos",
+                "Emilia-Romagna",
+                "Cargar Ajustes de Materiales"
+                
+            ]
+        },
+        {
+            "country": "Reportes",
+            "states": [
+                "Avance del Proyecto",
+                "Utilidad del Proyecto",
+                "Utilidad por Periodo"
+            ]
+        },
+        {
+            "country": "Sistema",
+            "states": [
+                "Usuarios",
+                "Roles",
+                "Permisos"
+            ]
+        }
+    ]
+}
